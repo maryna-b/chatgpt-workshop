@@ -25,7 +25,7 @@ Para acceder a la API de ChatGPT, debes crear una cuenta en OpenAI. Sigue estos 
 7. Instala la biblioteca OpenAI. Puedes utilizar un administrador de paquetes pip para esto.
 8. Ahora podrás interactuar con la API de ChatGPT y realizar solicitudes.
 
-Nota 1: Es esencial tener una clave de API para acceder a la API de ChatGPT. No podrás acceder ni realizar solicitudes a la API de ChatGPT sin una clave de API.
+Nota: Es esencial tener una clave de API para acceder a la API de ChatGPT. No podrás acceder ni realizar solicitudes a la API de ChatGPT sin una clave de API.
 
 **Para instalar biblioteca de OpenAI:**
 
